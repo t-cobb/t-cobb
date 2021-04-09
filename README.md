@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @t-cobb
-- 👀 I’m interested in building technology to improve the human condition
-- 🌱 I’m currently learning R while studying Design, Engineering, and Business at Harvard
+- 👋 Hi, I’m Trevor, a product manager, design researcher and venture builder
+- 👀 I’m passionate about building technology to improve the human condition
+- 🌱 I’m currently learning R while studying Design, Engineering and Business at Harvard
 - 📫 How to reach me: trevorstormcobb@gmail.com
 
 <!---
