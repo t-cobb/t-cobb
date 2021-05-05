@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trevor, a product manager, design strategist and venture builder
 - 🔥 I’m passionate about building technology to improve the human condition
-- 🌱 I stud Design, Engineering and Business at Harvard
+- 🌱 I study Design, Engineering and Business at Harvard
 - 📫 How to reach me: trevorstormcobb@gmail.com
 
 <!---
